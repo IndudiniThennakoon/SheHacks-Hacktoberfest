@@ -22,4 +22,3 @@ Design pattern shows how you should structure your classes and how these classes
 
 
 
-
