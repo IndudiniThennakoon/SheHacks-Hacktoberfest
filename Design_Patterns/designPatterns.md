@@ -12,8 +12,12 @@ Design pattern shows how you should structure your classes and how these classes
 
 
 <img align="center" width="500" height="500" src="https://cdn-images-1.medium.com/max/1000/0*8nTDMelConI3FojH.jpg"/>
+</br></br>
 
+1. Creational - Different ways to create objects</br>
 
+2. Structural  - relationships between these object </br>
+3. Behavioral - interaction or communication between the object</br>
 
 
 
