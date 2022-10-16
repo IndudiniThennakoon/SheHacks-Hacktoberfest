@@ -1,10 +1,10 @@
-# Basics of Design patterns
+# <b>Basics of Design patterns</b>
 </br>
 
   Here, We are going to talk about how you should structure classes and how these classes should collaborate. Our focus will be on building a design that reusable and extensible software that can be easily extended.
 </br>
 
-## What are Design Patterns ?
+## <b>What are Design Patterns ?</b>
 
 Design patterns are elegant solutions to repeating problems in software design. </br></br>
 <i><b>Example:</b> May want to implement the undo mechanism in your application. That is a repeating problem in software design.</i></br></br>
@@ -19,7 +19,7 @@ Design pattern shows how you should structure your classes and how these classes
 2. Structural  - relationships between these object </br>
 3. Behavioral - interaction or communication between the object</br>
 
-## How Design Patterns are used?</br>
+## <b>How Design Patterns are used?</b></br>
 
 <img align="center" width="500" height="500" src="https://cdn-images-1.medium.com/max/1000/1*EPASyCSLmA1APms8N3fWiQ.png"/>
 </br></br>
@@ -39,7 +39,7 @@ Sometimes there is some problem occurs in our programming environment, so that p
 7. Implement the operations to carry out the responsibilities and collaborations in the pattern
 </br></br>
 
-### How to select a Design Pattern?</br></br>
+## <b>How to select a Design Pattern?</b></br></br>
 
 - Consider how design patterns solve design problems
 - Scan Intent section (What is the aim of particular pattern) 
@@ -47,3 +47,32 @@ Sometimes there is some problem occurs in our programming environment, so that p
 - Study Patterns of like purpose
 - Examine a cause of redesign
 - Consider what should be variable in our design
+
+</br></br>
+
+## <b>Elements of Design Patterns</b>
+</br></br>
+
+- Pattern name
+
+ --  Use to illustrate a design problem</br>
+--  Describes the pattern</br>
+ --  Adds to common terminology for facilitating communication
+</br></br>
+- Problems
+
+-- Describes when to apply to the pattern</br></br>
+
+- Solution 
+
+--  Does not describe a particular concrete design or implementation because pattern is like a template that can be applied in many situations</br>
+-- Describes elements, relationships, responsibilities, and collaborations which make up the design
+</br></br>
+- Consequences
+
+ --  Result of applying the pattern </br>
+
+--  Benefits and costs</br>
+
+ -- Subjective depending on concrete scenarios
+</br>
