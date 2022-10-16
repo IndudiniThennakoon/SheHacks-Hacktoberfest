@@ -24,4 +24,5 @@ Design pattern shows how you should structure your classes and how these classes
 <img align="center" width="500" height="500" src="https://cdn-images-1.medium.com/max/1000/1*EPASyCSLmA1APms8N3fWiQ.png"/>
 </br></br>
 
-
+Designers design a solution for a particular issue in the environment, and then the programmer will implement that design. The job of designer and programmer is that to reduce the gap between design and implementation. This figure basically demonstrate that how we can use patterns.</br></br>
+Sometimes there is some problem occurs in our programming environment, so that particular problem is handled using design patterns.
