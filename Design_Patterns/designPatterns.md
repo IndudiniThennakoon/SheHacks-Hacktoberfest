@@ -11,8 +11,7 @@ Design patterns are elegant solutions to repeating problems in software design.Â
 Design pattern shows how you should structure your classes and how these classes should talk to each other. Mainly, there are 23 design patterns in 3 categories.
 
 
-<img scr = "/Design_Patterns/Img/type.jpg">
-
+<img align="center" width="500" height="500" src="https://cdn-images-1.medium.com/max/1000/0*8nTDMelConI3FojH.jpg"/>
 
 
 
